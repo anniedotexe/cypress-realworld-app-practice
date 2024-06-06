@@ -1,3 +1,8 @@
+# Cypress Real World App Testing Practice
+This forked repository is used for practicing writing cypress tests on their [Real World App](https://github.com/cypress-io/cypress-realworld-app).
+
+---
+
 <p align="center">
   <!-- We use two SVGs here so that this displays correctly
     on Github. This might not look right in other Markdown previewers. -->
